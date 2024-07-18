@@ -5,11 +5,11 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
-    <servlet-name>hi</servlet-name>
-    <servlet-class>com.servlet.Hi</servlet-class>
+    <servlet-name>life_cycle</servlet-name>
+    <servlet-class>com.servlet.LifeCycle</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>hi</servlet-name>
-    <url-pattern>/hi</url-pattern>
+    <servlet-name>life_cycle</servlet-name>
+    <url-pattern>/life_cycle</url-pattern>
   </servlet-mapping>
 </web-app>
