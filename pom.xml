@@ -28,6 +28,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>servlet-app</finalName>
+    <finalName>servlet</finalName>
   </build>
 </project>
